@@ -15,3 +15,5 @@ module.exports = {
     generate: generate,
     toAddress: toAddress,
 };
+
+main.
